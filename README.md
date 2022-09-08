@@ -1,4 +1,4 @@
 # Quotes-App-NestJS
 
-#install the node modules
+#i nstall the node modules
 - npm install
